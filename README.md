@@ -1,10 +1,5 @@
-# Brain-Inspired Replay
-A PyTorch implementation of the continual learning experiments with deep neural networks described in the 
-following paper:
-* Brain-inspired replay for continual learning with artificial neural networks: https://www.nature.com/articles/s41467-020-17866-2
-
-This paper proposes a new, brain-inspired version of generative replay that can scale to continual learning problems with natural images as inputs.
-This is demonstrated with the Split CIFAR-100 protocol, both for task-incremental learning and for class-incremental learning.
+# Beta-gamma Replay
+This repo is based on BIR.
 
 
 ## Installation & requirements
